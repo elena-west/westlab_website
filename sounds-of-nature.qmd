@@ -1,18 +1,17 @@
 ---
 title: "Sounds of Nature MN"
 author: "Elena West"
+---
 
 ## About the Project
 
 Project description text and photos.
 
-
 ---
 
+## Explore the Data
 
-   ## Explore the Data
+Want to see what birds were detected on participating properties? 
 
-   Want to see what birds were detected on participating properties? 
-
-   [View Interactive Results Map](sounds-of-nature-results.qmd){.btn .btn-primary}
+[View Interactive Results Map](sounds-of-nature-results.qmd){.btn .btn-primary}
 ---

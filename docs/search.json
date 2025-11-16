@@ -12,5 +12,33 @@
     "title": "westlab_website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 #TESTAGAIN\n\n[1] 2"
+  },
+  {
+    "objectID": "sounds-of-nature.html",
+    "href": "sounds-of-nature.html",
+    "title": "Sounds of Nature MN",
+    "section": "",
+    "text": "Project description text and photos."
+  },
+  {
+    "objectID": "sounds-of-nature.html#about-the-project",
+    "href": "sounds-of-nature.html#about-the-project",
+    "title": "Sounds of Nature MN",
+    "section": "",
+    "text": "Project description text and photos."
+  },
+  {
+    "objectID": "sounds-of-nature.html#explore-the-data",
+    "href": "sounds-of-nature.html#explore-the-data",
+    "title": "Sounds of Nature MN",
+    "section": "Explore the Data",
+    "text": "Explore the Data\nWant to see what birds were detected on participating properties?"
+  },
+  {
+    "objectID": "sounds-of-nature.html#view-interactive-results-map",
+    "href": "sounds-of-nature.html#view-interactive-results-map",
+    "title": "Sounds of Nature MN",
+    "section": "View Interactive Results Map",
+    "text": "View Interactive Results Map"
   }
 ]
