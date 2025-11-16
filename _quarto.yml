@@ -12,11 +12,11 @@ website:
       - text: Research
         menu:
           - text: Green Heron Ecology
-            href: green-heron.qmd
+            href: green-heron.html
           - text: Red-headed Woodpecker Ecology
-            href: red-headed-woodpecker.qmd
+            href: red-headed-woodpecker.html
           - text: Sounds of Nature MN
-            href: sounds-of-nature.qmd
+            href: sounds-of-nature.html
 
 format:
   html:
