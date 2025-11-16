@@ -9,6 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: Research
+        menu:
+          - text: Green Heron Ecology
+            href: green-heron.qmd
+          - text: Red-headed Woodpecker Ecology
+            href: red-headed-woodpecker.qmd
+          - text: Sounds of Nature MN
+            href: sounds-of-nature.qmd
 
 format:
   html:
