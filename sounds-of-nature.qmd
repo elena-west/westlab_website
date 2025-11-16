@@ -4,7 +4,7 @@ author: "Elena West"
 
 ## About the Project
 
-*Project description text and photos*
+Project description text and photos.
 
 
 ---
